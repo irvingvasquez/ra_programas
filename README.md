@@ -1,6 +1,6 @@
-# Programas de robótica aerea
+# Ejercicios de robótica móvil
 
-En este repositorio se encuentran los ejercicios de programación platenados en el libro 'Robótica aérea de Juan Irving Vásquez.
+En este repositorio se encuentran ejercicios de programación de robótica móvil. El objetivo es practicar los conceptos que se van viendo en el curso.
 
 ## Instalación
 
